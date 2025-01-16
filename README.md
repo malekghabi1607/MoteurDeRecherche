@@ -63,7 +63,16 @@ Le but de ce projet est de concevoir un **moteur de recherche simplifié** capab
 
 ## 🚀 Utilisation
 
-1. Clonez le dépôt :
-   ```bash
+1. Clonez le dépôt:```bash
    git clone <lien_du_dépôt>
    cd moteur-de-recherche
+2. Importez le projet dans votre IDE.
+3. Exécutez la classe Test pour interagir avec le programme.
+4. Sélectionnez un corpus, analysez les données et effectuez des recherches.
+
+
+
+
+
+
+
