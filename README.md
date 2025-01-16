@@ -61,3 +61,11 @@ Le but de ce projet est de concevoir un **moteur de recherche simplifié** capab
 - **Java** : Version 8.
 - Organisation en **packages** pour structurer le code.
 
+<img width="1383" alt="Capture d’écran 2025-01-16 à 14 14 49" src="https://github.com/user-attachments/assets/8a718db1-d24c-42a6-b0e0-039918747a14" />
+
+<img width="1501" alt="Capture d’écran 2025-01-16 à 14 17 01" src="https://github.com/user-attachments/assets/6e266814-c620-4be8-8a2b-5a24eeb8f461" />
+
+<img width="1498" alt="Capture d’écran 2025-01-16 à 14 17 13" src="https://github.com/user-attachments/assets/2b55108d-5289-4e15-9288-0b191ad579fe" />
+
+
+
